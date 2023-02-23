@@ -5,5 +5,6 @@
  * @author Aman
  *
  */
-module test {Okay
-}
+module test {
+	int a = 2;
+};
