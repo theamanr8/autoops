@@ -5,5 +5,5 @@
  * @author Aman
  *
  */
-module test {
+module test {Okay
 }
